@@ -6,7 +6,7 @@ Hi! I'm Tao, a third-year electrical engineering student from UC Davis. I am cur
 
 - 🔭 I’m currently working on modernizing Cadence's EDA tool from C to C++.
 - 💬 Ask me about good hikes 🥾 I've done throughout the world.
-- 📫 How to reach me: email, Linkedin
+- 📫 How to reach me: Email, Linkedin
 - ⚡ Fun fact: I started college as a Biochemistry major, then I switched to Electrical Engineering in my sophomore year.
 
 ## Courses that I Enjoyed
