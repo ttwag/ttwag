@@ -15,10 +15,13 @@ Here are the notes and documentation of some engineering courses that I've taken
 
 * [EEC110B - Electronic Circuits](https://github.com/ttwag/EEC110B-Electronic_Circuits)
 * [EEC130AB - Electromagnetics](https://github.com/ttwag/EEC130AB-Electromagnetics)
+* [EEC133 - Electromagnetic Radiation & Antenna Analysis](https://github.com/ttwag/EEC133-Electromagnetic_Radiation_Antenna_Analysis)
 * [EEC170 - Computer Architecture](https://github.com/ttwag/EEC170-Computer_Architecture)
 * [EEC175A - Internet of Things Devices](https://github.com/ttwag/EEC175A-IoT_Design)
 * [EEC173A - Computer Networks](https://github.com/ttwag/EEC173A-Computer_Networks)
 * [EEC260 - Random Signal and Noise](https://github.com/ttwag/EEC260-Random_Signal_and_Noise)
+* [MAT127A - Real Analysis](https://github.com/ttwag/MAT127A-Real_Analysis)
+* [MAT115A - Number Theory](https://github.com/ttwag/MAT115A-Number_Theory)
 
 ## Projects that I Completed
 
